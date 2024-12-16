@@ -1,0 +1,14 @@
+body, html{
+    height: 100%;
+  }
+  
+  body{
+    background-color: blue;
+  }
+  
+  .pdf{
+    background-color: red;
+    height: 100%;
+    width: 250px;
+   }
+  
